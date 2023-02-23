@@ -1,0 +1,12 @@
+package datastructure;
+
+public class Ex01PrimitiveDemo {
+	public static void main(String[] args) {
+		int digit = 24;
+		float point = 8;
+		
+		System.out.println("Giá trị của digit: " + digit);
+		System.out.println("Point: " + point);
+	}
+
+}

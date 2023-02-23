@@ -1,0 +1,11 @@
+package datastructure;
+
+public class Ex01PrimitiveDemo {
+	public static void main(String[] args) {
+		int a = 10;
+		modify(a);
+	}
+	public static void modify(int a) {
+		a = 100;
+	}
+}

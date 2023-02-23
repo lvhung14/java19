@@ -1,0 +1,12 @@
+package datastructure.object;
+
+// Tạo ra KDL --> Tạo ra 1 class
+public class Item {
+	// thuộc tính (biến toàn cục) --> thuộc phạm vi class
+	public int id;
+	public char name;
+	public float price;
+	
+	// phương thức 
+	// biến bên trong phương thức --> biến cục bộ
+}

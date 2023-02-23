@@ -1,0 +1,2 @@
+Xoá nhánh ở remote: git push origin ten_nhanh -d
+Xoá commit: xoá ở local rồi 

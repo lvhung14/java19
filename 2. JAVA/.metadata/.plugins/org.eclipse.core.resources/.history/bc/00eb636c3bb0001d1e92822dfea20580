@@ -1,0 +1,10 @@
+package datastructure;
+
+public class Ex01PrimitiveDemo {
+	public static void main(String[] args) {
+		
+	}
+	public static void modify(int a) {
+		
+	}
+}

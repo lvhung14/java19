@@ -1,0 +1,8 @@
+KDL nguyên thuỷ:
++ dùng để lưu trữ dữ liệu
++ lưu trữ dữ liệu đơn
+  VD: số nguyên, chuỗi, số thực, kí tự,...
+  	: int: số nguyên	-> 4 bytes	-> BIT, BYTE, KB, GB, GIGA, TERA
+  	  long: số nguyên	-> 8 bytes
+  	  float: số thực
+  	  

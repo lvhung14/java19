@@ -1,0 +1,8 @@
+package datastructure.object;
+
+// Tạo ra KDL --> Tạo ra 1 class
+public class Item {
+	// thuộc tính (biến toàn cục)
+	
+	// phương thức
+}

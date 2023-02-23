@@ -1,0 +1,10 @@
+package datastructure;
+
+public class Ex03PremitivePassingValue {
+	public static void main(String[] args) {
+		int a = 5;
+		int b = 7;
+		
+		
+	}
+}

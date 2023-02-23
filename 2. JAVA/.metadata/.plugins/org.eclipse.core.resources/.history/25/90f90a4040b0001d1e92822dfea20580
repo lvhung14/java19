@@ -1,0 +1,20 @@
+package datastructure;
+
+public class Ex03PremitivePassingValue {
+	public static void main(String[] args) {
+		int a = 5;
+		int b = 7;
+		
+		// Cập nhật giá trị của a thành 9;
+		a = 9;
+		System.out.println(a);
+		
+		System.out.println("===============");
+	}
+	
+	// Tham số number chưa có giá trị -> nó có giá trị 
+	// khi có nơi gọi nó và truyền giá trị
+	private static void modify(int number) {
+		number = 9;
+	}
+}
